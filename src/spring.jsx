@@ -1,6 +1,6 @@
 import React from 'react';
 
-//import './spring.css';
+import './spring.css';
 import { useTrail, animated } from 'react-spring'
 
 

@@ -31,7 +31,7 @@ const config = {
   devServer: {
     contentBase: './dist'
   }, optimization: {
-    runtimeChunk: "false"
+    runtimeChunk: false
   }
 };
 
